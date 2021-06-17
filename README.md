@@ -1,5 +1,12 @@
 # OpenPifpaf ROS node
 
+## openpifpaf
+
+The original implementation: https://github.com/openpifpaf/openpifpaf
+
+https://arxiv.org/abs/2103.02440
+
+
 ## installation
 
 ```shell
