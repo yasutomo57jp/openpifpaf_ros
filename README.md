@@ -19,4 +19,3 @@ ROS_NAMESPACE=camera rosrun openpifpaf_ros openpifpaf_ros_node.py
 |in_topic  | image_color|
 |out_topic | human_pose |
 |scale     |         1.0|
-|--------- |------------|
