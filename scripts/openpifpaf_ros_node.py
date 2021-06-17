@@ -6,7 +6,7 @@ import cv2
 from sensor_msgs.msg import Image
 from cv_bridge import CvBridge
 from openpifpaf.predictor import Predictor
-from recognition_msgs.msg import Poses, Pose
+from openpfpaf_ros.msg import Poses, Pose
 
 
 class OpenPifpafProc(object):
