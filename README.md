@@ -3,6 +3,7 @@
 ## installation
 
 ```shell
+pip install opencv-python
 pip install openpifpaf
 ```
 
